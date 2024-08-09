@@ -1,6 +1,7 @@
 /*------------------------------------------------------------------------------------------
 CDS_LAB-14-
 LINEAR SEARCH USING PYTHON USING WHILE LOOP TO IT
+-------------------------------------------------------------------------------*/
 ALGORITHM:
 STEP 1:Start: Beginning of the flowchart.
 STEP 2:Initialize i = 0: Set the starting index.
