@@ -1,4 +1,9 @@
-# CDS_LAB-14-
+/*---------------------------------------------------------------------
+CDS_LAB-14
+LINEAR SEARCH IN PYTHON USING WHILE LOOP 
+NANDANA.S.KUMAR
+9-07-2024
+------------------------------------------------------------------------*/
 def search(list, n):
     for i in range(len(list)):
         if list[i] == n:
@@ -14,4 +19,3 @@ if search(list, n)!= -1:
     print("Found at ",search(list,n))
 else:
     print("Not Found")
-    
